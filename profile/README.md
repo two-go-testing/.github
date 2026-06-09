@@ -38,5 +38,7 @@ npm install two-go
   GitHub Action that installs dependencies and runs your two-go tests in CI.
 - **[two-go-vscode](https://github.com/two-go-testing/two-go-vscode)** is a VS
   Code extension with snippets and helpers for writing two-go tests.
+- **[two-go-claude](https://github.com/two-go-testing/two-go-claude)** is a
+  ready-to-use Claude Code skill and subagents for writing two-go tests.
 
 MIT licensed. Maintained by [@tugkanboz](https://github.com/tugkanboz).
